@@ -1,0 +1,6 @@
+/.vscode/
+/Cargo.lock
+/target/
+/test/test
+/flamegraph.svg
+/perf.data*
